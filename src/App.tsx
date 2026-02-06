@@ -26,9 +26,9 @@ function App() {
           <p className="text-xl md:text-2xl mb-8 text-orange-50">
             The Complete Guide to Getting Traffic, Building Authority, and Scaling Your Business on Reddit as a Solopreneur
           </p>
-          <button className="bg-white text-orange-600 px-12 py-5 rounded-lg text-xl font-bold hover:bg-orange-50 transition-all duration-300 shadow-xl hover:shadow-2xl transform hover:scale-105">
+          <a href="https://digitalabc.lemonsqueezy.com/checkout/buy/e8eeea29-238f-4251-a993-cae7a0dd74f9" className="inline-block bg-white text-orange-600 px-12 py-5 rounded-lg text-xl font-bold hover:bg-orange-50 transition-all duration-300 shadow-xl hover:shadow-2xl transform hover:scale-105">
             Enroll Now
-          </button>
+          </a>
         </div>
       </div>
 
@@ -476,9 +476,9 @@ function App() {
             <p className="text-lg text-orange-50">Complete course + lifetime updates</p>
           </div>
           <div className="mb-8">
-            <button className="bg-white text-orange-600 px-16 py-6 rounded-lg text-2xl font-bold hover:bg-orange-50 transition-all duration-300 shadow-2xl hover:shadow-3xl transform hover:scale-105">
+            <a href="https://digitalabc.lemonsqueezy.com/checkout/buy/e8eeea29-238f-4251-a993-cae7a0dd74f9" className="inline-block bg-white text-orange-600 px-16 py-6 rounded-lg text-2xl font-bold hover:bg-orange-50 transition-all duration-300 shadow-2xl hover:shadow-3xl transform hover:scale-105">
               Enroll Now
-            </button>
+            </a>
           </div>
           <div className="flex items-center justify-center space-x-8 text-orange-50 flex-wrap gap-4">
             <div className="flex items-center">
