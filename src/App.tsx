@@ -514,10 +514,10 @@ function App() {
             </div>
 
             <div className="flex flex-wrap justify-center gap-6 text-sm">
-              <a href="#contact" className="hover:text-orange-400 transition-colors">Contact</a>
-              <a href="#privacy" className="hover:text-orange-400 transition-colors">Privacy Policy</a>
-              <a href="#terms" className="hover:text-orange-400 transition-colors">Terms of Service</a>
-              <a href="#affiliate" className="hover:text-orange-400 transition-colors">Affiliate Program</a>
+              <a href="https://www.andrewmurrayhq.com/support" className="hover:text-orange-400 transition-colors">Contact</a>
+              <a href="https://www.andrewmurrayhq.com/privacy" className="hover:text-orange-400 transition-colors">Privacy Policy</a>
+              <a href="https://www.andrewmurrayhq.com/terms" className="hover:text-orange-400 transition-colors">Terms of Service</a>
+              <a href="https://digitalabc.lemonsqueezy.com/affiliates" className="hover:text-orange-400 transition-colors">Affiliate Program</a>
             </div>
           </div>
 
