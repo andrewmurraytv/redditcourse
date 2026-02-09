@@ -288,50 +288,39 @@ export default function MainCourse({ onOTOClick }: MainCourseProps) {
           </div>
         </div>
 
+        <div className="text-center mb-20">
+          <a href="https://digitalabc.lemonsqueezy.com/checkout/buy/e8eeea29-238f-4251-a993-cae7a0dd74f9" className="inline-block bg-orange-600 text-white px-16 py-6 rounded-lg text-2xl font-bold hover:bg-orange-700 transition-all duration-300 shadow-2xl hover:shadow-3xl transform hover:scale-105">
+            Get the Complete Course Now
+          </a>
+        </div>
+
         <div className="bg-white rounded-2xl shadow-lg p-10 mb-16">
           <h2 className="font-montserrat text-4xl font-bold text-slate-800 mb-8 text-center">
-            Why Reddit Ads Deserve Their Own Section
+            Reddit Ads 101
           </h2>
           <div className="max-w-4xl mx-auto text-slate-700 space-y-6 mb-8">
             <p className="text-lg leading-relaxed">
-              While organic Reddit marketing is powerful, Reddit Ads open up an entirely different dimension of opportunity. Most marketers overlook Reddit Ads because they assume they won't work—but that's exactly why they're so effective for those who know how to use them.
+              This course includes an intro to Reddit Ads - which are easy to self-run and very inexpensive compared to Facebook and Instagram Ads.
             </p>
             <p className="text-lg leading-relaxed">
-              Reddit's advertising platform allows you to target specific subreddits with laser precision. Imagine being able to advertise directly to r/entrepreneur, r/SaaS, or r/freelance—placing your message in front of thousands of people who are already interested in exactly what you offer. This level of targeting is almost impossible on other platforms.
+              Reddit's advertising platform allows you to target specific subreddits with laser precision. Imagine being able to advertise directly to r/entrepreneur, r/SaaS, or r/freelance—placing your message in front of thousands of people who are already interested in exactly what you offer.
             </p>
             <p className="text-lg leading-relaxed">
-              The challenge with Reddit Ads is that traditional ad copy fails spectacularly. Reddit users are incredibly savvy and can spot typical marketing speak instantly. Your ads need to feel native to the platform—conversational, authentic, and genuinely helpful. That's exactly what you'll learn in the Reddit Ads section of this course.
+              With Reddit Ads costing 50-70% less than Facebook and Google, you can stretch your budget further while reaching an audience that's actively seeking solutions. The key is crafting ads that feel native to the platform—conversational, authentic, and genuinely helpful.
             </p>
-            <p className="text-lg leading-relaxed">
-              I'll show you the exact frameworks for creating Reddit Ads that don't feel like ads, how to structure campaigns for maximum ROI, advanced targeting strategies beyond just subreddits, budget optimization techniques, and how to test and scale winning campaigns. You'll also learn how to avoid the common pitfalls that cause most advertisers to quit Reddit Ads before they see results.
-            </p>
-            <p className="text-lg leading-relaxed">
-              Reddit Ads can be remarkably cost-effective compared to Google or Facebook ads, especially in niche markets. With lower competition and highly engaged audiences, your cost per click and cost per acquisition can be significantly better—if you approach it correctly.
-            </p>
-            <div className="bg-gradient-to-br from-blue-50 to-blue-100 border-l-4 border-blue-500 p-6 mt-8">
-              <div className="flex items-start gap-4">
-                <Flame className="w-6 h-6 text-blue-600 flex-shrink-0 mt-1" />
-                <div>
-                  <h3 className="font-montserrat font-bold text-slate-800 mb-3 text-lg">Reddit Ads Getting too Competitive?</h3>
-                  <p className="text-slate-700 mb-4">
-                    As more marketers discover Reddit's potential, the costs are climbing fast. But there's a window right now where you can still dominate at a fraction of what Facebook and Google charge.
-                  </p>
-                  <button onClick={onOTOClick} className="inline-block bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-700 transition-all duration-300">
-                    See Reddit Ads Deep Dive
-                  </button>
-                </div>
-              </div>
-            </div>
           </div>
         </div>
 
         <div className="bg-gradient-to-br from-orange-50 to-orange-100 rounded-2xl p-10 mb-20">
           <div className="max-w-3xl mx-auto">
-            <h2 className="font-montserrat text-3xl font-bold text-slate-800 mb-6 text-center">
-              Bonus: Book a Reddit Marketing Consultation
+            <h2 className="font-montserrat text-3xl font-bold text-slate-800 mb-2 text-center">
+              Bonus: Includes a FREE Reddit Marketing Consultation
             </h2>
+            <p className="text-center text-orange-600 font-semibold mb-6">
+              Value $297
+            </p>
             <p className="text-lg text-slate-700 mb-8 text-center">
-              Need personalized guidance for your specific business and niche? As a course student, you'll have the option to book a one-on-one consultation where we'll dive deep into your Reddit marketing strategy.
+              As a course student, you'll have the option to book a one-on-one consultation where we'll dive deep into your Reddit marketing strategy personalized to your business and niche.
             </p>
             <div className="bg-white rounded-xl p-8 shadow-md">
               <h3 className="text-xl font-bold text-slate-800 mb-4">What's Included in a Consultation:</h3>
